@@ -9,6 +9,8 @@
 
 	`流浪回形针` 存档：[Vol.004 为什么中国人总是在安检 | 回形针](https://ipaperclip.justprogsan.workers.dev/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip/%E5%B8%B8%E8%A7%84Vol/Vol.004%20%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%80%BB%E6%98%AF%E5%9C%A8%E5%AE%89%E6%A3%80%EF%BD%9C%E5%9B%9E%E5%BD%A2%E9%92%88.mp4?preview)
 
+<video src="https://r2.ipaperclip.icu/video/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip/Vol/Vol.004%20%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%80%BB%E6%98%AF%E5%9C%A8%E5%AE%89%E6%A3%80.mp4" controls width="600"></video>
+
 走进地铁，首先你需要把行李放在一条传送带上，然后穿过一个塑料门，最后安检人员会对你挥舞一根黑色的棒子。
 
 ![img](image/Vol.004/2.gif)
