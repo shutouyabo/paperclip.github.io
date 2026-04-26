@@ -12,8 +12,6 @@
 >
 > `流浪回形针` 存档：[Vol.001 摄像头如何监控十三亿人 | 回形针](https://ipaperclip.justprogsan.workers.dev/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip/%E5%B8%B8%E8%A7%84Vol/Vol.001%20%E6%91%84%E5%83%8F%E5%A4%B4%E5%A6%82%E4%BD%95%E7%9B%91%E6%8E%A7%E5%8D%81%E4%B8%89%E4%BA%BF%E4%BA%BA%EF%BD%9C%E5%9B%9E%E5%BD%A2%E9%92%88.mp4?preview)
 
-<video preload="metadata" aria-hidden="true" crossorigin="" src="https://r2.ipaperclip.icu/video/回形针PaperClip/Vol/Vol.001 摄像头如何监控十三亿人.mp4"></video>
-
 <video src="https://r2.ipaperclip.icu/video/回形针PaperClip/Vol/Vol.001 摄像头如何监控十三亿人.mp4" controls width="600"></video>
 
 过去十年，中国是监控摄像头增长最快的国家。
