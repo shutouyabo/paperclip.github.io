@@ -21,6 +21,10 @@
 
     `流浪回形针` 存档：[Vol.003 垃圾短信群发指南 | 回形针](https://ipaperclip.justprogsan.workers.dev/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip/%E5%B8%B8%E8%A7%84Vol/Vol.003%20%E5%9E%83%E5%9C%BE%E7%9F%AD%E4%BF%A1%E7%BE%A4%E5%8F%91%E6%8C%87%E5%8D%97%EF%BD%9C%E5%9B%9E%E5%BD%A2%E9%92%88.mp4?preview)
 
+<iframe src="https://r2.ipaperclip.icu/video/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip/Vol/Vol.003%20%E5%9E%83%E5%9C%BE%E7%9F%AD%E4%BF%A1%E7%BE%A4%E5%8F%91%E6%8C%87%E5%8D%97.mp4"
+        width="600" height="400" frameborder="0" allowfullscreen>
+</iframe>
+
 今天，如果不是未读信息的提醒，你恐怕根本不会打开手机短信，因为短信功能被垃圾短信彻底干掉了。
 
 请注意，这些短信号码的前缀不是 1065 就是 1069。
