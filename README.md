@@ -2,8 +2,8 @@
   <img src=./docs/images/title.gif >
 </div>
 
-# 张雪峰语录
+# 回形针paperclip
 
-网        址：[https://zhangxuefeng.zhihu.blog/](https://zhangxuefeng.zhihu.blog/)
+网        址：[https://paperclip.zhihu.blog/](https://zhangxuefeng.zhihu.blog/)
 
-备用网址：[https://zhangxuefeng-github-io.vercel.app/](https://zhangxuefeng-github-io.vercel.app/)
+备用网址：[https://paperclip-beifen.vercel.app/](https://zhangxuefeng-github-io.vercel.app/)
