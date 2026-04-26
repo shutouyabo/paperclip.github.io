@@ -15,7 +15,7 @@
 
 <video controls width="600">
   <source src="https://r2.ipaperclip.icu/video/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip/Vol/Vol.002%20%E5%A6%82%E4%BD%95%E5%88%B6%E9%80%A0%E7%88%86%E6%AC%BE%E5%86%A5%E5%B8%81.mp4" type="video/mp4">
-  <source src="xxx.webm" type="video/webm">
+  <source src="![1777196778864](image/Vol.002如何制造爆款冥币/1777196778864.png)" type="video/webm">
   你的浏览器不支持视频
 </video>
 
