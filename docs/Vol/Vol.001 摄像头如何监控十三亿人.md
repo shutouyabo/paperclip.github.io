@@ -14,6 +14,8 @@
 
 <video preload="metadata" aria-hidden="true" crossorigin="" src="https://r2.ipaperclip.icu/video/回形针PaperClip/Vol/Vol.001 摄像头如何监控十三亿人.mp4"></video>
 
+<video src="https://r2.ipaperclip.icu/video/回形针PaperClip/Vol/Vol.001 摄像头如何监控十三亿人.mp4" controls width="600"></video>
+
 过去十年，中国是监控摄像头增长最快的国家。
 
 根据咨询公司 IHS Markit 2016 年的数据，中国共装有 1.76 亿个监控摄像头。其中由公安系统掌握的，有 2000 万。
