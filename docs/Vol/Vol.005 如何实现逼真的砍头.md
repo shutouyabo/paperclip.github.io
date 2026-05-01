@@ -9,6 +9,8 @@
 
 	`流浪回形针` 存档：[Vol.005 如何实现逼真的砍头 | 回形针](https://ipaperclip.justprogsan.workers.dev/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip/%E5%B8%B8%E8%A7%84Vol/Vol.005%20%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E9%80%BC%E7%9C%9F%E7%9A%84%E7%A0%8D%E5%A4%B4%EF%BD%9C%E5%9B%9E%E5%BD%A2%E9%92%88.mp4?preview)
 
+    <video src="https://r2.ipaperclip.icu/video/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip/Vol/Vol.005%20%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E9%80%BC%E7%9C%9F%E7%9A%84%E7%A0%8D%E5%A4%B4.mp4" controls width="600"></video>
+
 ![img](image/Vol.005/2.jpeg)
 
 电影史上的第一次砍头出现在 1895 年。

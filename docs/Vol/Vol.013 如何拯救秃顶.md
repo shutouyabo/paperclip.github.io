@@ -3,6 +3,8 @@
 
 # Vol.013 如何拯救秃顶
 
+<video src="https://r2.ipaperclip.icu/video/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip/Vol/Vol.013%20%E5%A6%82%E4%BD%95%E6%8B%AF%E6%95%91%E7%A7%83%E9%A1%B6.mp4" controls width="600"></video>
+
 在高水平的雄性激素影响下，几乎所有男性都会有不同程度的脱发。早在 2011 年，就有数据显示中国约有 2 亿脱发人群，其中男性 1.3 亿，把他们的谢顶面积加起来有整个南京那么大。
 
 ![img](image/Vol.013/2.png)

@@ -3,6 +3,8 @@
 
 # Vol.019 如何实现一次华丽的漂移
 
+<video src="https://r2.ipaperclip.icu/video/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip/Vol/Vol.019%20%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E4%B8%80%E6%AC%A1%E5%8D%8E%E4%B8%BD%E7%9A%84%E6%BC%82%E7%A7%BB.mp4" controls width="600"></video>
+
 每个看过《头文字D》的男孩都希望自己能像主角藤原拓海一样开车在弯道漂移。
 
 作为一种华丽的驾驶技巧，漂移的基本原理是让车辆的后轮失去绝大部分侧向抓地力，然后依靠前轮转向把车尾往弯道外侧甩，最终做到车身侧滑过弯。

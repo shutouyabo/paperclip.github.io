@@ -3,6 +3,8 @@
 
 # Vol.012 坦克驾驶指南
 
+<video src="https://r2.ipaperclip.icu/video/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip/Vol/Vol.012%20%E5%9D%A6%E5%85%8B%E9%A9%BE%E9%A9%B6%E6%8C%87%E5%8D%97.mp4" controls width="600"></video>
+
 哪个男孩不想开坦克呢？
 
 在柏林郊区 Beerfelde，160 欧可以让你开着 T55 坦克在泥地里兜风半小时。而在中国的解放军装甲兵部队，完成数年的训练，才能获得坦克驾驶资格。

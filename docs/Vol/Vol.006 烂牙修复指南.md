@@ -7,6 +7,8 @@
 
 	`流浪回形针` 存档：[Vol.006 烂牙修复指南 | 回形针](https://ipaperclip.justprogsan.workers.dev/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip/%E5%B8%B8%E8%A7%84Vol/Vol.006%20%E7%83%82%E7%89%99%E4%BF%AE%E5%A4%8D%E6%8C%87%E5%8D%97%EF%BD%9C%E5%9B%9E%E5%BD%A2%E9%92%88.mp4?preview)
 
+<video src="https://r2.ipaperclip.icu/video/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip/Vol/Vol.006%20%E7%83%82%E7%89%99%E4%BF%AE%E5%A4%8D%E6%8C%87%E5%8D%97.mp4" controls width="600"></video>
+
 对于牙医们来说，常见的洗牙补牙拔智齿并不是问题。真正的顶级牙医，拼的是如何在毫米尺度上设计牙齿，让一口烂牙焕然一新。
 
 ![img](image/Vol.006/2.jpeg)

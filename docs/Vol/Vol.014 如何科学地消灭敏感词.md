@@ -2,6 +2,8 @@
 
 # Vol.014 如何科学地消灭敏感词
 
+<video src="https://r2.ipaperclip.icu/video/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip/Vol/Vol.014%20%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E5%9C%B0%E6%B6%88%E7%81%AD%E6%95%8F%E6%84%9F%E8%AF%8D.mp4" controls width="600"></video>
+
 中国网民第一次发现敏感词的存在，是在 2000 年的 qq 聊天室。
 
 ![img](image/Vol.014/2.gif)

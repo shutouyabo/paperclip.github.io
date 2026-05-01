@@ -3,6 +3,8 @@
 
 # Vol.015 如何经营一家鬼屋
 
+<video src="https://r2.ipaperclip.icu/video/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip/Vol/Vol.015%20%E5%A6%82%E4%BD%95%E7%BB%8F%E8%90%A5%E4%B8%80%E5%AE%B6%E9%AC%BC%E5%B1%8B.mp4" controls width="600"></video>
+
 你愿意付一笔钱，然后体验一把屁滚尿流的恐怖之旅吗？
 
 根据咨询公司睿意德 2015 年的报告，在一线城市的购物中心，鬼屋已经成为最赚钱的业态之一，年盈利可达 300 万元，这些鬼屋是怎么经营的？

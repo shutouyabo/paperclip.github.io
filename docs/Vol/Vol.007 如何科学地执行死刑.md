@@ -7,6 +7,8 @@
 
 	`流浪回形针` 存档：[Vol.007 如何科学地执行死刑 | 回形针](https://wandering-paperclip.glitch.me/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip/%E5%B8%B8%E8%A7%84Vol/Vol.007%20%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E5%9C%B0%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%EF%BD%9C%E5%9B%9E%E5%BD%A2%E9%92%88.mp4?preview)
 
+<video src="https://r2.ipaperclip.icu/video/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip/Vol/Vol.007%20%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E5%9C%B0%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91.mp4" controls width="600"></video>
+
 处死一个犯人有哪些方法？
 
 从借助自然之力的火刑、石刑，到使用简单器具的十字架刑、绞刑，再到要求复杂机械的断头台、枪决，死刑的每一次进化都体现了人类社会的科技发展。

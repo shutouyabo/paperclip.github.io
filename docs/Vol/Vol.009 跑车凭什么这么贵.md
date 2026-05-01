@@ -3,6 +3,8 @@
 
 # Vol.009 跑车凭什么这么贵
 
+<video src="https://r2.ipaperclip.icu/video/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip/Vol/Vol.009%20%E8%B7%91%E8%BD%A6%E5%87%AD%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E8%B4%B5.mp4" controls width="600"></video>
+
 想买一辆顶级跑车，一千万是起步价。
 
 而 2017 年全球最畅销的中国品牌车五菱宏光，顶配也不过 7 万。凭什么 266 辆五菱宏光才能比得上一辆布加迪？

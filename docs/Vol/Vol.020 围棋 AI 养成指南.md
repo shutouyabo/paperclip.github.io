@@ -3,6 +3,8 @@
 
 # Vol.020 围棋 AI 养成指南
 
+<video src="https://r2.ipaperclip.icu/video/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip/Vol/Vol.020%20%E5%9B%B4%E6%A3%8B%20AI%20%E5%85%BB%E6%88%90%E6%8C%87%E5%8D%97.mp4" controls width="600"></video>
+
 2017 年 5 月 27 日，由谷歌开发的围棋 AI AlphaGo 以3:0 击败当时世界排名第一的围棋棋手柯洁，随后宣布退役。
 
 ![img](image/Vol.020/2.gif)

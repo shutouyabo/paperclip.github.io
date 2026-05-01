@@ -3,6 +3,8 @@
 
 # Vol.010 混音师如何拯救歌手
 
+<video src="https://r2.ipaperclip.icu/video/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip/Vol/Vol.010%20%E6%B7%B7%E9%9F%B3%E5%B8%88%E5%A6%82%E4%BD%95%E6%8B%AF%E6%95%91%E6%AD%8C%E6%89%8B.mp4" controls width="600"></video>
+
 在中文互联网，「百万年薪调音师」是一个流传多年的传说。
 
 ![img](image/Vol.010/2.gif)

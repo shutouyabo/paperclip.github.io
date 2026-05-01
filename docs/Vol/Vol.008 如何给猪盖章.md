@@ -3,6 +3,8 @@
 
 # Vol.008 如何给猪盖章
 
+<video src="https://r2.ipaperclip.icu/video/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip/Vol/Vol.008%20%E5%A6%82%E4%BD%95%E7%BB%99%E7%8C%AA%E7%9B%96%E7%AB%A0.mp4" controls width="600"></video>
+
 中国可能是全世界最需要猪的国家，每年，中国人都要吃掉全世界一半的猪。
 
 ![img](image/Vol.008/2.gif)

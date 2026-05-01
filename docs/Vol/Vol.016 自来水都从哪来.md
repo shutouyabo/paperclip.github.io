@@ -3,6 +3,8 @@
 
 # Vol.016 自来水都从哪来
 
+<video src="https://r2.ipaperclip.icu/video/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip/Vol/Vol.016%20%E8%87%AA%E6%9D%A5%E6%B0%B4%E9%83%BD%E4%BB%8E%E5%93%AA%E6%9D%A5.mp4" controls width="600"></video>
+
 这是 2016 年全国水利发展统计公报。
 
 2016 年，中国用水 6040 亿立方米，其中居民生活用水 821.6 亿立方米，相当于每个中国人每年用掉 12 万瓶矿泉水。

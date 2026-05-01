@@ -3,6 +3,8 @@
 
 # Vol.018 高速公路收费指南
 
+<video src="https://r2.ipaperclip.icu/video/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip/Vol/Vol.018%20%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E6%94%B6%E8%B4%B9%E6%8C%87%E5%8D%97.mp4" controls width="600"></video>
+
 进入高速公路，你需要在收费站领取一张通行券，这张券记录了车辆的入站名称、时间车牌和车型。出收费站时再把通行券交给工作人员，他们就可以确定根据你的行驶距离，车辆类别并收取高速公路通行费。
 
 ![img](image/Vol.018/2.gif)
